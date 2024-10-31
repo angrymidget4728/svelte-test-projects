@@ -1,0 +1,24 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+html {
+    font-size: 1.25em;
+    /* background-color: hsl(0, 0%, 9%); */
+    color-scheme: dark;
+    font-family:
+        Source Serif Pro,
+        Cambria,
+        Cochin,
+        Georgia,
+        Times,
+        'Times New Roman',
+        serif;
+}
+
+input,
+select,
+button {
+    font-size: inherit;
+    font-family: inherit;
+}
